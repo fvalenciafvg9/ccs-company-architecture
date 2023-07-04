@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T06:38:44.794Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="GIwEMvyweFIo8McTWl4F" version="21.5.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-07-04T06:42:16.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="0RTSraqmM9j30ZGvP7j-" version="21.5.2" type="github" pages="6">
   <diagram name="Signals-SystemContext" id="mnKaPSXspg2UMO3DC_yU">
     <mxGraphModel dx="838" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -709,6 +709,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MEHvGj8KqIz6pX5ISdPR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEHvGj8KqIz6pX5ISdPR-19" target="MEHvGj8KqIz6pX5ISdPR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEHvGj8KqIz6pX5ISdPR-43" value="Administrador de usuarios" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MEHvGj8KqIz6pX5ISdPR-42">
+          <mxGeometry x="0.36" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MEHvGj8KqIz6pX5ISdPR-19" value="Load Balancer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="140" height="60" as="geometry" />
         </mxCell>
@@ -735,6 +743,12 @@
         </mxCell>
         <mxCell id="MEHvGj8KqIz6pX5ISdPR-39" value="Autenticación&lt;br&gt;Autorización&lt;br&gt;&lt;br&gt;Amazon Cognito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MEHvGj8KqIz6pX5ISdPR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEHvGj8KqIz6pX5ISdPR-41" target="MEHvGj8KqIz6pX5ISdPR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEHvGj8KqIz6pX5ISdPR-41" value="AWS Lambda&lt;br&gt;Cognito SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
