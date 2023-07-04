@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T05:51:59.278Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="iTFRqIGku4tl7dsovKv0" version="21.5.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-04T05:56:30.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="djjDjjG1NQcAaBypIAG-" version="21.5.2" type="github" pages="5">
   <diagram name="Signals-SystemContext" id="mnKaPSXspg2UMO3DC_yU">
     <mxGraphModel dx="838" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,6 +529,17 @@
         </mxCell>
         <mxCell id="NDLwCikQWzgJq53hXo_z-31" value="Suscriptor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i39391OC9Jzvy6vDaTjo" name="Plus-SystemContext">
+    <mxGraphModel dx="838" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TWawNkOysgnOj-xf2esP-1" value="" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#879196;fillColor=none;verticalAlign=top;align=center;fontColor=#879196;dashed=1;spacingTop=3;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="200" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
